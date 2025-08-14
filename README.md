@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dronegirl
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning surveying and geomatics 
+- 👀 I’m interested in coding i usually write code for the automation of tasks I get at work.
+- 🌱 I’m currently studying towards a Msc in Geomatics Engineering and working as a Geospatial Data Scientist Graduate Trainee. 
 - 💞️ I’m looking to collaborate on geospatial related code
 - 📫 How to reach me Ruvimbo Doreen Supiya on LinkedIn 
 - 😄 Pronouns: she/hers
